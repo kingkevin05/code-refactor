@@ -75,6 +75,8 @@ p {
     margin-left: 20px;
 }
 
+/* search engine optimization style */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,6 +94,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* online rep mgt style */
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -111,6 +115,8 @@ p {
     font-size: 36px;
 }
 
+/* social meadia mkg style */
+
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -128,6 +134,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* benefits style */
 
 .benefits {
     margin-right: 20px;
@@ -187,6 +195,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer style */
 
 footer {
     padding: 30px;
